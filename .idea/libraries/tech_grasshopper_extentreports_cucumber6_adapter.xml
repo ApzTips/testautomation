@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="tech.grasshopper.extentreports.cucumber6.adapter" type="repository">
+    <properties maven-id="tech.grasshopper:extentreports-cucumber6-adapter:1.2.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/tech/grasshopper/extentreports-cucumber6-adapter/1.2.0/extentreports-cucumber6-adapter-1.2.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/aventstack/extentreports/4.1.7/extentreports-4.1.7.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/freemarker/freemarker/2.3.29/freemarker-2.3.29.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.4/httpcore-4.4.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.9/commons-codec-1.9.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpmime/4.5.2/httpmime-4.5.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.6/gson-2.8.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/mongodb/bson/3.12.0/bson-3.12.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/mongodb/mongodb-driver/3.3.0/mongodb-driver-3.3.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/mongodb/mongodb-driver-core/3.3.0/mongodb-driver-core-3.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
